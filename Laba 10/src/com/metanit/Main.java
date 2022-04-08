@@ -28,6 +28,6 @@ this.str = str;
                 maxWard = word;
             }
         }
-        System.out.println(maxWard);
+        System.out.println("Самое длинное слово: " + maxWard);
     }
 }
